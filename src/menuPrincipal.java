@@ -16,7 +16,7 @@ public class menuPrincipal {
                     "Chicha Fest");
         Genero genero3 = new Genero("pasillo","123bpm",1990,"Ecuador","Julio Jaramillo","Pasillo Ecuatoriano");
 
-        //con el set podemos cambiar al valor predeterminado en la clasec
+        //con el set podemos cambiar al valor predeterminado en la clasecfdgdfg
 
         System.out.println(genero1.getAnio());
         System.out.println(genero2.getAnio());
